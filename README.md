@@ -1,3 +1,4 @@
 # Music-Player
 
-Made using Vanilla Js and HTML Audio API
+Music Player using HTML, CSS and JavaScipt.
+Uses JavaScript Audio API to Load,Play,Change Music
